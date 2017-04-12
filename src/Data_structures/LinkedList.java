@@ -223,8 +223,6 @@ public class LinkedList {
 			current=next;
 			
 			
-			
-			
 		}
 		
 		
