@@ -1,4 +1,4 @@
-package Data_structures;
+package Trees;
 
 public class Binary_Search {
 

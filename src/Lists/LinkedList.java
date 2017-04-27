@@ -1,4 +1,4 @@
-package Data_structures;
+package Lists;
 
 public class LinkedList {
 	
@@ -35,6 +35,8 @@ public class LinkedList {
 	public void display()
 	{ 
 		//1) List is empty
+		//2) Only one element
+		//3) normal case
 		if(head==null)
 		{
 			System.out.println("List is empty");
@@ -203,7 +205,7 @@ public class LinkedList {
 	public void reverse()
 	{
 		Node node=head;
-		Node current = null, prev=null,next	;
+		Node current = head, prev=null,next	;
 		//empty list
 		// list with size 1
 		// list with multiple size
