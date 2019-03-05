@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="843c83d8-ce34-4d0b-a103-8a282280b6d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract/AbstractSubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract/AbstractSuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HeapImpl/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maps/LinkedHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maps/TestHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/FirstThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/RaceCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading/ThreadPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OverrideHashCode/HashCodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ConcurrentModificationException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ConcurrentModificationException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Constructor_chaining.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Constructor_chaining.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Data_structures/CircularQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Data_structures/CircularQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Data_structures/DoubleEndedQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Data_structures/DoubleEndedQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Data_structures/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Data_structures/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Data_structures/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Data_structures/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Lists/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Lists/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Lists/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Lists/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Lists/TestLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Lists/TestLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/RegEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/RegEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Sorting/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Sorting/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Sorting/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Sorting/InsertionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Sorting/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Sorting/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Sorting/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Sorting/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Sorting/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Sorting/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Sorting/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Sorting/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Sorting/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Sorting/SelectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringQuestions/ASCII.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringQuestions/ASCII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringQuestions/AllAlphabets.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringQuestions/AllAlphabets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringQuestions/Anagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringQuestions/Anagram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringQuestions/FlyodTraingle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringQuestions/FlyodTraingle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringQuestions/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringQuestions/Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringQuestions/PalindromeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringQuestions/PalindromeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringQuestions/RemoveDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringQuestions/RemoveDuplicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringQuestions/RepeatedString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringQuestions/RepeatedString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringQuestions/SortString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringQuestions/SortString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/StringQuestions/String_reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringQuestions/String_reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Trees/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Trees/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Trees/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Trees/BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Trees/Binary_Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Trees/Binary_Search.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Trees/Node1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Trees/Node1.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-393426873">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2971" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2971" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Data_structures/Stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-48">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Search/BinarySearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Trees/BinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Trees/BinarySearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Result.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MissingNumberInArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Array/MaximumMinimumArrayDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HeapImpl/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+              <folding>
+                <element signature="e#117#118#0" expanded="true" />
+                <element signature="e#86#87#0" expanded="true" />
+                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HeapImpl/Heap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="e#276#277#0" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/MultiThreading/ThreadPriority.java" />
+        <option value="$PROJECT_DIR$/src/MultiThreading/RaceCondition.java" />
+        <option value="$PROJECT_DIR$/src/AbstractClass.java" />
+        <option value="$PROJECT_DIR$/src/Abstract/AbstractClass.java" />
+        <option value="$PROJECT_DIR$/src/Abstract/AbstractSubClass.java" />
+        <option value="$PROJECT_DIR$/src/Abstract/AbstractSuperClass.java" />
+        <option value="$PROJECT_DIR$/src/Abstract/InterfaceTest.java" />
+        <option value="$PROJECT_DIR$/src/MultiThreading/FirstThread.java" />
+        <option value="$PROJECT_DIR$/src/Maps/TestHashMap.java" />
+        <option value="$PROJECT_DIR$/src/Maps/LinkedHashMap.java" />
+        <option value="$PROJECT_DIR$/src/OverrideHashCode/HashCodeTest.java" />
+        <option value="$PROJECT_DIR$/src/Search/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/MissingNumberInArray.java" />
+        <option value="$PROJECT_DIR$/src/Array/MaximumMinimumArrayDemo.java" />
+        <option value="$PROJECT_DIR$/src/HeapImpl/Node.java" />
+        <option value="$PROJECT_DIR$/src/HeapImpl/Heap.java" />
+        <option value="$PROJECT_DIR$/src/Test.java" />
+        <option value="$PROJECT_DIR$/src/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Result.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HeapImpl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="OverrideHashCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Trees" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Trees" type="462c0819:PsiDirectoryNode" />
+              <item name="BinarySearchTree.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551784614186" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search.BinarySearch" />
+      <module name="Practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashCodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OverrideHashCode.HashCodeTest" />
+      <module name="Practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OverrideHashCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumMinimumArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.MaximumMinimumArrayDemo" />
+      <module name="Practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MissingNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MissingNumberInArray" />
+      <module name="Practise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="Practise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HashCodeTest" />
+      <item itemvalue="Application.BinarySearch" />
+      <item itemvalue="Application.MissingNumberInArray" />
+      <item itemvalue="Application.MaximumMinimumArrayDemo" />
+      <item itemvalue="Application.Solution" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.MaximumMinimumArrayDemo" />
+        <item itemvalue="Application.MissingNumberInArray" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.HashCodeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="843c83d8-ce34-4d0b-a103-8a282280b6d6" name="Default Changelist" comment="" />
+      <created>1549462698113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549462698113</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36312056" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="SonarQube" order="8" />
+      <window_info anchor="bottom" id="SonarLint" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32907802" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Result.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Result.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Result.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Constructor_chaining.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiThreading/RaceCondition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Abstract/AbstractSuperClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="80" selection-start-line="5" selection-start-column="80" selection-end-line="5" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Abstract/InterfaceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="137" column="17" selection-start-line="137" selection-start-column="17" selection-end-line="137" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Maps/TestHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Maps/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="106" column="19" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1335">
+          <caret line="112" column="17" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="156" column="19" selection-start-line="156" selection-start-column="19" selection-end-line="156" selection-end-column="19" />
+          <folding>
+            <element signature="e#5877#5878#0" expanded="true" />
+            <element signature="e#5913#5914#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Abstract/AbstractSubClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiThreading/ThreadPriority.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OverrideHashCode/HashCodeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MultiThreading/FirstThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data_structures/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MissingNumberInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/MaximumMinimumArrayDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HeapImpl/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HeapImpl/Heap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Search/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Trees/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Trees/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
