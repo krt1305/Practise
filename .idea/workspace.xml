@@ -2,49 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843c83d8-ce34-4d0b-a103-8a282280b6d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstract/AbstractSubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstract/AbstractSuperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeapImpl/Heap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maps/LinkedHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maps/TestHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiThreading/FirstThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiThreading/RaceCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiThreading/ThreadPriority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OverrideHashCode/HashCodeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ConcurrentModificationException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ConcurrentModificationException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Constructor_chaining.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Constructor_chaining.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Data_structures/CircularQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Data_structures/CircularQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Data_structures/DoubleEndedQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Data_structures/DoubleEndedQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Data_structures/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Data_structures/Queue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Data_structures/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Data_structures/Stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Lists/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Lists/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Lists/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Lists/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Lists/TestLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Lists/TestLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/RegEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/RegEx.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Sorting/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Sorting/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Sorting/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Sorting/InsertionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Sorting/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Sorting/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Sorting/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Sorting/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Sorting/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Sorting/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Sorting/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Sorting/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Sorting/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Sorting/SelectionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringQuestions/ASCII.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringQuestions/ASCII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringQuestions/AllAlphabets.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringQuestions/AllAlphabets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringQuestions/Anagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringQuestions/Anagram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringQuestions/FlyodTraingle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringQuestions/FlyodTraingle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringQuestions/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringQuestions/Palindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringQuestions/PalindromeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringQuestions/PalindromeNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringQuestions/RemoveDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringQuestions/RemoveDuplicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringQuestions/RepeatedString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringQuestions/RepeatedString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringQuestions/SortString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringQuestions/SortString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/StringQuestions/String_reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/StringQuestions/String_reverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Trees/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Trees/BinarySearchTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Trees/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Trees/BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Trees/Binary_Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Trees/Binary_Search.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Trees/Node1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Trees/Node1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/MultipleMissingArrayElems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/SumOfNumbersInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProducerConsumerBlockingQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,37 +29,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="25" />
+          <entry key="java" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="25" />
+          <entry key="JAVA" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2971" />
+          <entry key="java" value="3897" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2971" />
+          <entry key="JAVA" value="3897" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Data_structures/Stack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-48">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Search/BinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -137,10 +90,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Result.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
+            <state relative-caret-position="228">
               <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -150,10 +103,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MissingNumberInArray.java">
+        <entry file="file://$PROJECT_DIR$/src/Array/SumOfNumbersInArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            <state relative-caret-position="241">
+              <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -168,16 +124,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HeapImpl/Node.java">
+        <entry file="file://$PROJECT_DIR$/src/Array/MultipleMissingArrayElems.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            <state relative-caret-position="210">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ProducerConsumerBlockingQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="61" column="59" selection-start-line="61" selection-start-column="59" selection-end-line="61" selection-end-column="59" />
               <folding>
-                <element signature="e#117#118#0" expanded="true" />
-                <element signature="e#86#87#0" expanded="true" />
-                <element signature="e#112#113#0" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#295#304#0" expanded="true" />
+                <element signature="e#695#696#0" expanded="true" />
+                <element signature="e#745#746#0" expanded="true" />
+                <element signature="e#1243#1244#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -230,6 +195,9 @@
         <option value="$PROJECT_DIR$/src/Test.java" />
         <option value="$PROJECT_DIR$/src/Solution.java" />
         <option value="$PROJECT_DIR$/src/Result.java" />
+        <option value="$PROJECT_DIR$/src/Array/SumOfNumbersInArray.java" />
+        <option value="$PROJECT_DIR$/src/Array/MultipleMissingArrayElems.java" />
+        <option value="$PROJECT_DIR$/src/ProducerConsumerBlockingQueue.java" />
       </list>
     </option>
   </component>
@@ -263,38 +231,7 @@
               <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HeapImpl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="OverrideHashCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Search" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Trees" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Trees" type="462c0819:PsiDirectoryNode" />
-              <item name="BinarySearchTree.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -304,7 +241,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551784614186" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552151625262" />
     <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
   </component>
   <component name="RunDashboard">
@@ -319,33 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Search.BinarySearch" />
-      <module name="Practise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Search.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HashCodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OverrideHashCode.HashCodeTest" />
-      <module name="Practise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OverrideHashCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ProducerConsumerBlockingQueue">
     <configuration name="MaximumMinimumArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.MaximumMinimumArrayDemo" />
       <module name="Practise" />
@@ -359,8 +270,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MissingNumberInArray" />
+    <configuration name="MultipleMissingArrayElems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.MultipleMissingArrayElems" />
+      <module name="Practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerConsumerBlockingQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProducerConsumerBlockingQueue" />
       <module name="Practise" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -373,20 +297,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOfNumbersInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.SumOfNumbersInArray" />
+      <module name="Practise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.HashCodeTest" />
-      <item itemvalue="Application.BinarySearch" />
-      <item itemvalue="Application.MissingNumberInArray" />
       <item itemvalue="Application.MaximumMinimumArrayDemo" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.SumOfNumbersInArray" />
+      <item itemvalue="Application.MultipleMissingArrayElems" />
+      <item itemvalue="Application.ProducerConsumerBlockingQueue" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProducerConsumerBlockingQueue" />
+        <item itemvalue="Application.MultipleMissingArrayElems" />
+        <item itemvalue="Application.SumOfNumbersInArray" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.MaximumMinimumArrayDemo" />
-        <item itemvalue="Application.MissingNumberInArray" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.HashCodeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -405,8 +342,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -415,7 +353,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36312056" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.056737587" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -595,13 +533,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Array/MaximumMinimumArrayDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HeapImpl/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -660,10 +591,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Result.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
+        <state relative-caret-position="228">
           <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/SumOfNumbersInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/MaximumMinimumArrayDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/MultipleMissingArrayElems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProducerConsumerBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="61" column="59" selection-start-line="61" selection-start-column="59" selection-end-line="61" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#295#304#0" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#1243#1244#0" expanded="true" />
           </folding>
         </state>
       </provider>
