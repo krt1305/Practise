@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843c83d8-ce34-4d0b-a103-8a282280b6d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/MultipleMissingArrayElems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/SumOfNumbersInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProducerConsumerBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Comparable/Laptop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -29,37 +27,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="28" />
+          <entry key="java" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="28" />
+          <entry key="JAVA" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3897" />
+          <entry key="java" value="4256" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3897" />
+          <entry key="JAVA" value="4256" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Search/BinarySearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Trees/BinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -132,30 +121,42 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ProducerConsumerBlockingQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="61" column="59" selection-start-line="61" selection-start-column="59" selection-end-line="61" selection-end-column="59" />
+            <state relative-caret-position="230">
+              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#295#304#0" expanded="true" />
                 <element signature="e#695#696#0" expanded="true" />
                 <element signature="e#745#746#0" expanded="true" />
+                <element signature="e#1193#1194#0" expanded="true" />
                 <element signature="e#1243#1244#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HeapImpl/Heap.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Comparable/Laptop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="290">
+              <caret line="53" column="47" lean-forward="true" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
               <folding>
-                <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#310#311#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#366#367#0" expanded="true" />
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#144#145#0" expanded="true" />
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -198,6 +199,7 @@
         <option value="$PROJECT_DIR$/src/Array/SumOfNumbersInArray.java" />
         <option value="$PROJECT_DIR$/src/Array/MultipleMissingArrayElems.java" />
         <option value="$PROJECT_DIR$/src/ProducerConsumerBlockingQueue.java" />
+        <option value="$PROJECT_DIR$/src/Comparable/Laptop.java" />
       </list>
     </option>
   </component>
@@ -231,7 +233,19 @@
               <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Comparable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="OverrideHashCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ProducerConsumerBlockingQueue.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -241,7 +255,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552151625262" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552817738907" />
     <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
   </component>
   <component name="RunDashboard">
@@ -256,13 +270,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProducerConsumerBlockingQueue">
-    <configuration name="MaximumMinimumArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.MaximumMinimumArrayDemo" />
+  <component name="RunManager" selected="Application.LaptopCompare">
+    <configuration name="LaptopCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comparable.LaptopCompare" />
       <module name="Practise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="Comparable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,19 +325,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MaximumMinimumArrayDemo" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.SumOfNumbersInArray" />
       <item itemvalue="Application.MultipleMissingArrayElems" />
       <item itemvalue="Application.ProducerConsumerBlockingQueue" />
+      <item itemvalue="Application.LaptopCompare" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LaptopCompare" />
         <item itemvalue="Application.ProducerConsumerBlockingQueue" />
         <item itemvalue="Application.MultipleMissingArrayElems" />
         <item itemvalue="Application.SumOfNumbersInArray" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.MaximumMinimumArrayDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +358,7 @@
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -353,7 +367,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.056737587" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28652483" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -361,9 +375,9 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="SonarQube" order="8" />
       <window_info anchor="bottom" id="SonarLint" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.49503547" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32907802" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.37730497" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -625,14 +639,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ProducerConsumerBlockingQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="61" column="59" selection-start-line="61" selection-start-column="59" selection-end-line="61" selection-end-column="59" />
+        <state relative-caret-position="230">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#295#304#0" expanded="true" />
             <element signature="e#695#696#0" expanded="true" />
             <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#1193#1194#0" expanded="true" />
             <element signature="e#1243#1244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="141" column="57" selection-start-line="141" selection-start-column="57" selection-end-line="141" selection-end-column="57" />
+          <folding>
+            <element signature="e#5697#5698#0" expanded="true" />
+            <element signature="e#5728#5729#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Comparable/Laptop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="53" column="47" lean-forward="true" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
           </folding>
         </state>
       </provider>
