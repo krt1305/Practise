@@ -1,0 +1,36 @@
+
+9squid:S1659p""Declare "next" on a separate line.(«àØ—
+?squid:S1659Ğ""Declare "prev" on a separate line.(ı÷Æáÿÿÿÿÿ
+?squid:S1659Ğ""Declare "next" on a separate line.(ı÷Æáÿÿÿÿÿ
+Usquid:S1197‡"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ëØİ
+csquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(á£ó¨
+T
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ˆê‹¼ùÿÿÿÿ
+T
+squid:S1061"9Replace this use of System.out or System.err by a logger.(¶úƒºûÿÿÿÿ
+T
+squid:S106;"9Replace this use of System.out or System.err by a logger.(¶úƒºûÿÿÿÿ
+T
+squid:S106@"9Replace this use of System.out or System.err by a logger.(¶úƒºûÿÿÿÿ
+U
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(ˆê‹¼ùÿÿÿÿ
+P
+squid:S106Ö"9Replace this use of System.out or System.err by a logger.(¡ˆÛß
+P
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(ıïŠ¤
+U
+squid:S106“"9Replace this use of System.out or System.err by a logger.(×ëŒšıÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Çğõ"
+Zsquid:HiddenFieldCheck£"7Rename "size" which hides the field declared at line 7.(ŠİıŞ
+=squid:S1481t"&Remove this unused "s" local variable.(¡€£ù
+@squid:S1481p")Remove this unused "next" local variable.(«àØ—
+Fsquid:S1481Ï")Remove this unused "node" local variable.(¬¼ıÿÿÿÿ
+Isquid:S1481Ø",Remove this unused "counter" local variable.(õ“¨Ûúÿÿÿÿ
+_squid:S2259"BA "NullPointerException" could be thrown; "node" is nullable here.(›õŞßşÿÿÿÿ
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¶‘ãÈ
+Lsquid:S1854t"5Remove this useless assignment to local variable "s".(¡€£ù
+Usquid:S1854‹"8Remove this useless assignment to local variable "next".(üŞÕ­şÿÿÿÿ
+Usquid:S1854Ï"8Remove this useless assignment to local variable "node".(¬¼ıÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áùòŒ

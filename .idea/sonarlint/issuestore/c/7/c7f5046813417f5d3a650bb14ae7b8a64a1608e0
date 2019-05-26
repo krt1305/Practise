@@ -1,0 +1,5 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ã”…ªûÿÿÿÿ8‰•¶ôš-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğİâ‡8‰•¶ôš-
+squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(†Öãå8‰•¶ôš-

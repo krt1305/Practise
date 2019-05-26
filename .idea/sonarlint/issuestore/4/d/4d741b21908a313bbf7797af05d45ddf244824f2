@@ -1,0 +1,11 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù½Â²
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡èŽ€8‡ÃÝú¢-
+V
+squid:S106""9Replace this use of System.out or System.err by a logger.(Ù·‰È8ï€Ýú¢-
+Ssquid:S1481	"0Remove this unused "finalString" local variable.(Êœÿÿÿÿÿ8Ó®Þú¢-
+‚squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ùü™‹ÿÿÿÿÿ8¥Â™ú¢-
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(’÷›Ïûÿÿÿÿ8®³‹ü¢-
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Áèªî8ï€Ýú¢-

@@ -1,0 +1,9 @@
+
+Vsquid:S1197
+"8Move the array designator from the variable to the type.(ú¾ü¶8é÷ºý¢-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ýƒèÂ8ÿ×Çý¢-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ô©×:8£„Éý¢-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù½Â²
+Jsquid:S1481",Remove this unused "counter" local variable.(ŒÂëó8ÍˆÑý¢-

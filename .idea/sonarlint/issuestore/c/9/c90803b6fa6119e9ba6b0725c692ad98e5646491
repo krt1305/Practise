@@ -1,0 +1,11 @@
+
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ë®ûe8ÈØ˜›–-
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8äá¦›–-
+msquid:UselessImportCheck"?Remove this unused import 'java.util.concurrent.BlockingDeque'.(ºÓÍêÿÿÿÿÿ8±‹›–-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÂÁ¨›–-
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÂÁ¨›–-
+tsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ß­<8ƒøÅ›–-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8äá¦›–-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(£“šø8š¢›–-

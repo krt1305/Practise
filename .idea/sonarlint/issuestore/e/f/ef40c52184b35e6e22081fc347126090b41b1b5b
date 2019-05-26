@@ -1,0 +1,5 @@
+
+…"squid:ClassVariableVisibilityCheck"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8®ú…ôš-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æ¿ùÍüÿÿÿÿ
+hsquid:UselessImportCheck"8Remove this unused import 'org.testng.annotations.Test'.(á½úáùÿÿÿÿ8ñ²ôš-
+ˆ"squid:ClassVariableVisibilityCheck"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ8®ú…ôš-

@@ -1,0 +1,6 @@
+
+[squid:UnusedPrivateMethod"*Remove this unused private "setId" method.(í¯Î©ÿÿÿÿÿ8¨ìõš-
+Xsquid:UnusedPrivateMethod",Remove this unused private "getName" method.(ù…ÍË8¨ìõš-
+Xsquid:UnusedPrivateMethod",Remove this unused private "setName" method.(ˆËŠ¯8¨ìõš-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æ¿ùÍüÿÿÿÿ
+[squid:UnusedPrivateMethod"*Remove this unused private "getId" method.(å«ûÿÿÿÿ8¸Áõš-

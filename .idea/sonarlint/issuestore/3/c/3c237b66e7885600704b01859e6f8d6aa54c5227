@@ -1,0 +1,14 @@
+
+‚"squid:ClassVariableVisibilityCheck"UMake stackSize a static final constant or non-public and provide accessors if needed.(™ğ{
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ì¤€ úÿÿÿÿ
+O
+squid:S1064"9Replace this use of System.out or System.err by a logger.(á“ƒÅ
+‰"squid:ClassVariableVisibilityCheck"VMake stackArray a static final constant or non-public and provide accessors if needed.(¼„Íıÿÿÿÿ
+"squid:ClassVariableVisibilityCheck	"TMake topStack a static final constant or non-public and provide accessors if needed.(Ğƒôb
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğİâ‡
+O
+squid:S106%"9Replace this use of System.out or System.err by a logger.(³õû®
+T
+squid:S106+"9Replace this use of System.out or System.err by a logger.(¾ƒ»ïúÿÿÿÿ
+Tsquid:S1197="8Move the array designator from the variable to the type.(½šÚúÿÿÿÿ

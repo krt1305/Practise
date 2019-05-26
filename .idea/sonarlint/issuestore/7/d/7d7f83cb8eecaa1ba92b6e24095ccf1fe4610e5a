@@ -1,0 +1,15 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(²”®ı8¦ñ»òš-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(êîÿ™8ÆÙ»òš-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(§œâ8¦ñ»òš-
+usquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑÊß×ùÿÿÿÿ
+Wsquid:UselessImportCheck".Remove this unused import 'java.util.Objects'.(¼¸õ›8ü²òš-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ôíûÿÿÿÿ8äë¿òš-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÖŸ…ªøÿÿÿÿ8ñ¯Àòš-
+lsquid:S1206"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠ8Š„²òš-
+lsquid:S1206"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠ8ß³òš-

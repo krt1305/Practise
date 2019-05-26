@@ -1,0 +1,10 @@
+
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ö…¬Çøÿÿÿÿ8¹‘Ú¢-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(µÌ”Çıÿÿÿÿ8®ãâ¢-
+Wsquid:UselessImportCheck",Remove this unused import 'java.util.Queue'.(Äá™ô8²“¡¢-
+nsquid:S1149
+"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Š¶û8¾“Ï¢-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Î¬Áç8ÂÁŞ¢-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù½Â²

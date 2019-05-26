@@ -1,0 +1,7 @@
+
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ø£Ç£-
+_squid:S1075"ARefactor your code to get this URI from a customizable parameter.(€öÏí8ı’ Ç£-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼÷Èõşÿÿÿÿ8Ø£Ç£-
+isquid:S2259"LA "NullPointerException" could be thrown; "bufferedReader" is nullable here.(öşq8Í²¦Ç£-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óÛğÚ

@@ -1,0 +1,20 @@
+
+Gsquid:S1125.")Remove the literal "false" boolean value.(ÖÊ€·8ÅÁ¹²Ÿ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëÉ¤ıÿÿÿÿ8ëı¶²Ÿ-
+Vsquid:S1197"8Move the array designator from the variable to the type.(€öç’8ÅÁ¹²Ÿ-
+[squid:S1197)"8Move the array designator from the variable to the type.(è§•ùÿÿÿÿ8ÅÁ¹²Ÿ-
+[squid:S1197<"8Move the array designator from the variable to the type.(¨ñĞâøÿÿÿÿ8ÅÁ¹²Ÿ-
+[squid:S1197	"8Move the array designator from the variable to the type.(àå¤şÿÿÿÿ8ëı¶²Ÿ-
+[squid:S1197G"8Move the array designator from the variable to the type.(ÀÌÏµûÿÿÿÿ8ÅÁ¹²Ÿ-
+[squid:S1197V"8Move the array designator from the variable to the type.(àå¤şÿÿÿÿ8ÅÁ¹²Ÿ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ×¼ üÿÿÿÿ8ëı¶²Ÿ-
+[
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(ëÉ¤ıÿÿÿÿ8ÅÁ¹²Ÿ-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀîéÉÿÿÿÿÿ
+Ksquid:S1125"(Remove the literal "true" boolean value.(úŸ·Ğüÿÿÿÿ8ëı¶²Ÿ-
+Ksquid:S1125X"(Remove the literal "true" boolean value.(úŸ·Ğüÿÿÿÿ8ÅÁ¹²Ÿ-
+[
+squid:S106["9Replace this use of System.out or System.err by a logger.(ÿ×¼ üÿÿÿÿ8ÅÁ¹²Ÿ-
+hsquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(ØŞıJ8ÅÁ¹²Ÿ-

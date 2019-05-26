@@ -1,0 +1,6 @@
+
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ßÇ£-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óÛğÚ
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÇÃ§åşÿÿÿÿ8µ­šÇ£-
+ksquid:S2259"HA "NullPointerException" could be thrown; "fileReader" is nullable here.(Ç¶Î„ûÿÿÿÿ8µ­šÇ£-
